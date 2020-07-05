@@ -7,10 +7,9 @@ python /data/data/com.termux/files/usr/etc/login_script.py
 PS1="[\w] >> "
 
 clear
-echo "Created By HTR-TECH"
+echo "hai"
 echo "----------------------------" | lolcat
-echo "Instagram :@ tahmid.rayat"
-echo "Github: github.com/htr-tech/"
+echo "the black devil"
 echo "----------------------------" | lolcat
 echo "
 +-+-+-+-+-+-+-+
